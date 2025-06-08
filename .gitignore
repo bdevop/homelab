@@ -1,0 +1,3 @@
+clusters/k3s-staging/.envrc
+clusters/k3s-staging/kubeconfig
+clusters/k3s-stating/.devcontainer.json
