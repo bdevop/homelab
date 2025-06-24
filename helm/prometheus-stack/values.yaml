@@ -1,0 +1,6 @@
+prometheus:
+  prometheusSpec:
+    maximumStartupDurationSeconds: 300
+prometheus-node-exporter:
+  hostRootFsMount:
+    enabled: false
